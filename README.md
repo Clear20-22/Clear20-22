@@ -33,16 +33,15 @@
   <a href="https://cses.fi/user/233698" target="_blank">
   <img src="https://cses.fi/logo.png" alt="CSES Logo" width="40" height="40" />
 </a>
+  <a href="https://lightoj.com/user/user-54cnj93" target="_blank">
+  <img src="https://lightoj.com/images/logo-lightoj.png" alt="LightOJ" width="40" height="40" />
+</a>
+  <a href="https://vjudge.net/user/Sojib2004" target="_blank">
+  <img src="https://user-images.githubusercontent.com/6764600/32597961-1480a9c2-c51d-11e7-89e0-6ae5b1b8a3b3.png" alt="VJudge" width="40" height="40" />
+</a>
 </p>
 
 ---
-
-<h3 align="left">📚 Competitive Programming Profiles:</h3>
-<ul>
-  <li><a href="https://vjudge.net/user/Sojib2004" target="_blank">VJudge Profile</a></li>
-  <li><a href="https://cses.fi/user/233698" target="_blank">CSES Profile</a></li>
-  <li><a href="https://lightoj.com/user/user-54cnj93" target="_blank">LightOJ Profile</a></li>
-</ul>
 
 ---
 
