@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif" alt="Header GIF" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Jubayer Ahmed Sojib</h1>
 <h3 align="center">I am currently pursuing my undergraduate degree in Computer Science & Engineering at the University of Dhaka</h3>
 
@@ -31,17 +33,15 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
   <a href="https://cses.fi/user/233698" target="_blank">
-  <img src="https://cses.fi/logo.png" alt="CSES Logo" width="40" height="40" />
-</a>
+    <img src="https://cses.fi/logo.png" alt="CSES Logo" width="40" height="40" />
+  </a>
   <a href="https://lightoj.com/user/user-54cnj93" target="_blank">
-  <img src="https://lightoj.com/images/logo-lightoj.png" alt="LightOJ" width="40" height="40" />
-</a>
+    <img src="https://lightoj.com/images/logo-lightoj.png" alt="LightOJ" width="40" height="40" />
+  </a>
   <a href="https://vjudge.net/user/Sojib2004" target="_blank">
-  <img src="https://user-images.githubusercontent.com/6764600/32597961-1480a9c2-c51d-11e7-89e0-6ae5b1b8a3b3.png" alt="VJudge" width="40" height="40" />
-</a>
+    <img src="https://user-images.githubusercontent.com/6764600/32597961-1480a9c2-c51d-11e7-89e0-6ae5b1b8a3b3.png" alt="VJudge" width="40" height="40" />
+  </a>
 </p>
-
----
 
 ---
 
