@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:66ccff&height=200&section=header&text=Hi%20👋,%20I'm%20Jubayer%20Ahmed%20Sojib&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 
-<h3 align="center">🎓 CSE Undergrad at University of Dhaka | 💻 Passionate Developer | 📈 Codeforces Pupil</h3>
+<h3 align="center">🎓 CSE Undergrad at University of Dhaka | 💻 Passionate Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=clear20-22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
