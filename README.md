@@ -27,6 +27,9 @@
   <a href="https://codeforces.com/profile/_s0jib_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
+    <a href="https://www.codechef.com/users/clear23" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521460-2944960.png" alt="CodeChef" height="30" width="40" />
+  </a>
   <a href="https://www.leetcode.com/sojib2004" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
