@@ -1,90 +1,100 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:66ccff&height=200&section=header&text=Hi%20👋,%20I'm%20Jubayer%20Ahmed%20Sojib&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <a href="https://github.com/clear20-22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Jubayer+Ahmed+Sojib;CSE+Undergrad+@+University+of+Dhaka;Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
+  </a>
 </p>
 
 <h3 align="center">🎓 CSE Undergrad at University of Dhaka | 💻 Passionate Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=clear20-22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/jubayer-ahmed-sojib-462938331/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/jubayerahmedsojib" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/jubayerahmed.sojib.7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/29_23_Sojib" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/_s0jib_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-    <a href="https://www.codechef.com/users/clear23" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521460-2944960.png" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sojib2004" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sojib14s976" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-  <a href="https://cses.fi/user/233698" target="_blank">
-    <img src="https://cses.fi/logo.png" alt="CSES" height="30" width="40" />
-  </a>
-  <a href="https://lightoj.com/user/user-54cnj93" target="_blank">
-    <img src="https://lightoj.com/images/logo-lightoj.png" alt="LightOJ" height="30" width="40" />
-  </a>
-  <a href="https://vjudge.net/user/Sojib2004" target="_blank">
-    <img src="https://raw.githubusercontent.com/ken107/github-logos/master/vjudge.png" alt="VJudge" height="30" width="40" />
+  <a href="https://github.com/clear20-22?tab=followers">
+    <img src="https://img.shields.io/github/followers/clear20-22?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+### 🚀 About Me
+- 🎯 Currently working on **Data Structures and Algorithms**
+- 📚 Learning **Flutter** and **React Native**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Competitive Programming**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js" /><br>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,django,react,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,bootstrap,linux" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clear20-22&layout=compact&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=clear20-22&show_icons=true&theme=tokyonight" />
-  <br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=clear20-22&theme=tokyonight&row=1&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clear20-22&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clear20-22&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=clear20-22&theme=tokyonight" />
+</p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clear20-22&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/jubayer-ahmed-sojib-462938331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/jubayerahmedsojib" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://fb.com/jubayerahmed.sojib.7" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/29_23_Sojib" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/_s0jib_" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/clear23" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.leetcode.com/sojib2004" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/sojib14s976" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
 </p>
 
 ---
 
-### 📌 Recent GitHub Activity
+### 📝 Latest GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
