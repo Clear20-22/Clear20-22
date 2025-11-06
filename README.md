@@ -48,7 +48,7 @@
 
   <h3 align="center">💻 Competitive Programming</h3>
   <p align="center">
-    <a href="(https://codeforces.com/profile/Clear23)" target="_blank">
+    <a href="https://codeforces.com/profile/Clear23" target="_blank">
       <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"/>
     </a>
     <a href="https://www.leetcode.com/sojib2004" target="_blank">
