@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sojib - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Glassmorphism Navbar -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <span class="logo-text">Clear20-22</span>
+                <span class="logo-subtitle">Sojib</span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home" class="home-section">
+        <div class="home-container">
+            <div class="home-content">
+                <div class="typing-container">
+                    <h1 class="typing-text">
+                        <span id="typed-text"></span>
+                        <span class="cursor">|</span>
+                    </h1>
+                </div>
+                <p class="home-description">
+                    A passionate Software Developer from Bangladesh 🚀<br>
+                    Competitive Programmer & Open Source Enthusiast
+                </p>
+                <div class="home-buttons">
+                    <button class="btn btn-primary" onclick="scrollToSection('projects')">
+                        <i class="fas fa-eye"></i> View My Work
+                    </button>
+                    <button class="btn btn-secondary" onclick="scrollToSection('contact')">
+                        <i class="fas fa-comments"></i> Let's Talk
+                    </button>
+                </div>
+            </div>
+            <div class="home-image">
+                <div class="profile-card">
+                    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+                         alt="Coding Animation" class="profile-gif">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>🎓 CSE Undergrad @ DU</p>
+                    <p>💻 Competitive Programmer</p>
+                    <p>🔥 Always Learning New Things</p>
+                    <p>🚀 Open Source Enthusiast</p>
+                </div>
+                <div class="tech-stack">
+                    <h3>Tech Stack</h3>
+                    <div class="tech-grid">
+                        <span class="tech-item">C++</span>
+                        <span class="tech-item">Java</span>
+                        <span class="tech-item">Python</span>
+                        <span class="tech-item">JavaScript</span>
+                        <span class="tech-item">React</span>
+                        <span class="tech-item">Flutter</span>
+                        <span class="tech-item">Django</span>
+                        <span class="tech-item">Node.js</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects-section">
+        <div class="container">
+            <h2 class="section-title">Projects</h2>
+            <p class="section-subtitle">Here are some of my featured projects</p>
+            
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image">
+                        <i class="fas fa-code project-icon"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Algorithm Visualizer</h3>
+                        <p>Interactive web application for visualizing sorting and searching algorithms</p>
+                        <div class="project-tech">
+                            <span>JavaScript</span>
+                            <span>HTML5</span>
+                            <span>CSS3</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-image">
+                        <i class="fas fa-mobile-alt project-icon"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Flutter Quiz App</h3>
+                        <p>Mobile quiz application with real-time scoring and multiple categories</p>
+                        <div class="project-tech">
+                            <span>Flutter</span>
+                            <span>Dart</span>
+                            <span>Firebase</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-image">
+                        <i class="fas fa-trophy project-icon"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>CP Solutions</h3>
+                        <p>Collection of competitive programming solutions with detailed explanations</p>
+                        <div class="project-tech">
+                            <span>C++</span>
+                            <span>Python</span>
+                            <span>Algorithms</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="projects-button">
+                <button class="btn btn-outline" onclick="window.open('https://github.com/clear20-22', '_blank')">
+                    <i class="fab fa-github"></i> View All Projects
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <p class="section-subtitle">Let's discuss your project or just say hello!</p>
+            
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <span>jubayerahmedsojib@gmail.com</span>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fab fa-linkedin"></i>
+                        <span>linkedin.com/in/jubayer-ahmed-sojib</span>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fab fa-github"></i>
+                        <span>github.com/clear20-22</span>
+                    </div>
+                </div>
+
+                <form class="contact-form" id="contactForm">
+                    <div class="form-group">
+                        <input type="text" id="name" name="name" required>
+                        <label for="name">Your Name</label>
+                        <span class="form-error" id="nameError"></span>
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="email" id="email" name="email" required>
+                        <label for="email">Your Email</label>
+                        <span class="form-error" id="emailError"></span>
+                    </div>
+                    
+                    <div class="form-group">
+                        <textarea id="message" name="message" rows="5" required></textarea>
+                        <label for="message">Your Message</label>
+                        <span class="form-error" id="messageError"></span>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary submit-btn">
+                        <span class="btn-text">
+                            <i class="fas fa-paper-plane"></i> Send Message
+                        </span>
+                        <span class="btn-loading">
+                            <i class="fas fa-spinner fa-spin"></i> Sending...
+                        </span>
+                    </button>
+                    
+                    <div class="form-feedback" id="formFeedback"></div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Jubayer Ahmed Sojib (Clear20-22). All rights reserved.</p>
+            <div class="social-links">
+                <a href="https://github.com/clear20-22" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://linkedin.com/in/jubayer-ahmed-sojib-462938331" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="https://codeforces.com/profile/_s0jib_" target="_blank"><i class="fas fa-code"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
