@@ -51,7 +51,7 @@
     <a href="https://codeforces.com/profile/Clear23" target="_blank">
       <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"/>
     </a>
-    <a href="[https://www.leetcode.com/sojib2004](https://leetcode.com/u/_Sojib_/)" target="_blank">
+    <a href="https://leetcode.com/u/_Sojib_/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
     <a href="https://www.hackerrank.com/29_23_Sojib" target="_blank">
