@@ -1,137 +1,110 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    JUBAYER AHMED SOJIB — GITHUB PROFILE          -->
+<!--              JUBAYER AHMED SOJIB — GitHub Profile README         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# Hey there, I'm Jubayer 👋
+<!-- ─────────── GLASSMORPHISM HEADER ─────────── -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=CSE+%40+University+of+Dhaka;Building+things+that+matter.)](https://github.com/clear20-22)
+<img src="./assets/header.jpg" width="100%" alt="Jubayer Ahmed Sojib — CSE @ University of Dhaka" />
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9A%A1+Algorithms+%7C+Full+Stack+%7C+Mobile+Dev;%F0%9F%8E%AF+Building+what+matters%2C+one+commit+at+a+time.;%F0%9F%94%A5+Turning+problems+into+elegant+solutions.)](https://github.com/clear20-22)
 
 <br/>
+
+<!-- ─────────── QUICK LINKS ─────────── -->
 
 <a href="https://portfolio-theta-weld-61.vercel.app/">
-<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%9C%A6_PORTFOLIO-6366F1?style=for-the-badge&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/jubayer-ahmed-sojib-462938331">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%9C%A6_LINKEDIN-0A66C2?style=for-the-badge&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:jubayerahmedsojib@gmail.com">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%9C%A6_EMAIL-EA4335?style=for-the-badge&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=clear20-22&style=for-the-badge&color=6366F1&label=visitors" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=clear20-22&style=for-the-badge&color=7C3AED&label=%E2%9C%A6+VISITORS" />
 
 </div>
 
 <br/>
 
-<!-- ─────────── ABOUT ─────────── -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-> **`$ whoami`**
->
-> I'm a Computer Science undergraduate at the **University of Dhaka** who lives at the intersection of competitive programming and software engineering. I design algorithms by day, build full-stack apps by night, and never stop learning.
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 What I Do
-
-- 🏛️ Studying **CSE** at **University of Dhaka**
-- ⚡ Solve problems on **Codeforces**, **LeetCode**, **CodeChef**
-- 📱 Build cross-platform apps with **Flutter** & **React Native**
-- 🌐 Full-stack web with **Next.js**, **Django**, **Node.js**
-- 🔬 Exploring **Distributed Systems** & **System Design**
-
-</td>
-<td width="50%">
-
-### 🎯 Current Goals
-
-- 🔥 Hit **Expert** on Codeforces
-- 📦 Ship 3 production-grade open source projects
-- 🧩 Master advanced graph theory & segment trees
-- 🚀 Land a high-impact engineering internship
-- 📚 Deep dive into **operating systems** internals
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/about.jpg" width="90%" alt="About Me" />
+</div>
 
 <br/>
 
-<!-- ─────────── TECH STACK ─────────── -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ⚙️ Technologies I Work With
+<img src="./assets/techstack.jpg" width="90%" alt="Tech Stack" />
+
+<br/><br/>
+
+<!-- Live interactive skill icons row for accessibility -->
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,dart&theme=dark" alt="Languages" />
+</a>
 
 <br/>
 
-**`Languages`**
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,django,nodejs,express&theme=dark" alt="Frameworks" />
+</a>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<br/>
 
-**`Frontend & Mobile`**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**`Backend & Data`**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-
-**`Tools & DevOps`**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,git,docker,linux,vscode&theme=dark" alt="Tools" />
+</a>
 
 </div>
 
 <br/>
 
-<!-- ─────────── COMPETITIVE PROGRAMMING ─────────── -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  COMPETITIVE PROGRAMMING SECTION                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🏆 Competitive Programming
+<img src="./assets/cp-banner.jpg" width="90%" alt="Competitive Programming" />
 
-<br/>
+<br/><br/>
 
 <a href="https://codeforces.com/profile/_c-p_">
-<img src="https://img.shields.io/badge/Codeforces-_c--p_-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/CODEFORCES-%20_c--p_-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://leetcode.com/u/_Sojib_/">
-<img src="https://img.shields.io/badge/LeetCode-_Sojib_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LEETCODE-%20_Sojib_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+&nbsp;
 <a href="https://www.codechef.com/users/clear23">
-<img src="https://img.shields.io/badge/CodeChef-clear23-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/CODECHEF-%20clear23-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/sojib14s976">
-<img src="https://img.shields.io/badge/GFG-sojib14s976-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GFG-%20sojib14s976-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 <br/><br/>
 
+<!-- LeetCode Dynamic Stats Card -->
 <a href="https://leetcode.com/u/_Sojib_/">
 <img width="75%" src="https://leetcard.jacoblin.cool/_Sojib_?theme=dark&font=JetBrains+Mono&ext=heatmap" alt="LeetCode Stats" />
 </a>
@@ -140,45 +113,59 @@
 
 <br/>
 
-<!-- ─────────── GITHUB STATS ─────────── -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 📈 GitHub Stats
+<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%20%F0%9F%93%88%20GITHUB%20ANALYTICS%20%E2%94%80%E2%94%80%E2%94%80-0D1117?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=clear20-22&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<!-- GitHub Streak — using demolab (the official primary host) -->
+<img width="90%" src="https://streak-stats.demolab.com/?user=clear20-22&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=6366F1&fire=F97316&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ─────────── SNAKE ─────────── -->
-
-<div align="center">
-
+<!-- Snake Contribution Graph (auto-generated via GitHub Action) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clear20-22/clear20-22/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clear20-22/clear20-22/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/clear20-22/clear20-22/output/github-snake-dark.svg" width="100%" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/clear20-22/clear20-22/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+<br/>
+
+<sub>🐍 The snake above eats my contribution graph daily — powered by <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action</sub>
 
 </div>
 
 <br/>
 
-<!-- ─────────── FOOTER ─────────── -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
- ╔══════════════════════════════════════════════════════╗
- ║  "First, solve the problem. Then, write the code."  ║
- ║                              — John Johnson         ║
- ╚══════════════════════════════════════════════════════╝
+ ╔═══════════════════════════════════════════════════════════╗
+ ║                                                           ║
+ ║   "First, solve the problem. Then, write the code."       ║
+ ║                                     — John Johnson        ║
+ ║                                                           ║
+ ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<sub>⭐ If you find my work interesting, consider giving a star!</sub>
+<br/>
+
+<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-0D1117?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Based_in-Dhaka,_Bangladesh_🇧🇩-0D1117?style=flat-square" />
+
+<br/><br/>
+
+<sub>⭐ Star my repos if you find them useful!</sub>
 
 </div>
